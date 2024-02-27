@@ -29,9 +29,9 @@ def checknum(num, lang):
 
 
 
-bot_token = 'tontoken'
+bot_token = '6713566168:AAEbVhdnPGEsWEk3g5rq4H0UJI22_KhFWdI'
 
-idmescouilles = [6504387245, 60]
+idmescouilles = [6116906243, 60]
 # 6504387245 kazen
 # 57 miaouu
 # sy 6206235640
